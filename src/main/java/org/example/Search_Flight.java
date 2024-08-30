@@ -29,7 +29,7 @@ public class Search_Flight extends Resusable {
     WebElement searchbutton;
     @FindBy(xpath = "(//div[text()='You are being redirected to the partner website.']/ancestor::div)[1]/following-sibling::div[1]/descendant::div[@class=\"css-1dbjc4n r-1awozwy r-l0gwng\"]")
     WebElement loader;
-    @FindBy(xpath = "//div[contains(text(),'Shashank')]")
+    @FindBy(xpath = "//div[contains(text(),'piyush')]")
     WebElement verifyafterlogin;
 
     Search_Flight(WebDriver driver) {

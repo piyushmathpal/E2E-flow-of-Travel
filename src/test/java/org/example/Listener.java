@@ -51,7 +51,7 @@ public class Listener extends BaseTest implements ITestListener  {
 
         testThreadLocal.get().addScreenCaptureFromPath(path);
         testThreadLocal.get().fail(result.getThrowable());
-        testThreadLocal.get().log(Status.FAIL,"failde");
+        testThreadLocal.get().log(Status.FAIL,"failed");
     }
 
     @Override

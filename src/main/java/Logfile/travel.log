@@ -1,5 +1,5 @@
-15:25:17.569 [main]INFO  org.example.Login - hello
-15:25:18.620 [main]INFO  org.example.Login - Logged in
-15:25:22.849 [main]INFO  org.example.Search_Flight - hello from search flights
-15:25:32.494 [main]INFO  Reuse.Resusable - flight is selected
-15:25:37.015 [main]INFO  Reuse.Resusable - flight is selected
+12:59:07.833 [TestNG-test-C:\Users\hp\Desktop\PROJECT\E2E_travel\E2E_travel\src\test\java\org\example\e2eTraveltests.java-1]INFO  org.example.Login - hello
+12:59:09.984 [TestNG-test-C:\Users\hp\Desktop\PROJECT\E2E_travel\E2E_travel\src\test\java\org\example\e2eTraveltests.java-1]INFO  org.example.Login - Logged in
+12:59:19.756 [TestNG-test-C:\Users\hp\Desktop\PROJECT\E2E_travel\E2E_travel\src\test\java\org\example\e2eTraveltests.java-1]INFO  org.example.Search_Flight - hello from search flights
+12:59:37.785 [TestNG-test-C:\Users\hp\Desktop\PROJECT\E2E_travel\E2E_travel\src\test\java\org\example\e2eTraveltests.java-1]INFO  Reuse.Resusable - flight is selected
+12:59:42.681 [TestNG-test-C:\Users\hp\Desktop\PROJECT\E2E_travel\E2E_travel\src\test\java\org\example\e2eTraveltests.java-1]INFO  Reuse.Resusable - flight is selected

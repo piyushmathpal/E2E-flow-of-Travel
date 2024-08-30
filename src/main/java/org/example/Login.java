@@ -25,7 +25,7 @@ public class Login extends Reuse.Resusable{
     WebElement passtofeed;
     @FindBy(xpath = "//div[contains(text(),'LOGIN')]")
     WebElement clickonlogin;
-    @FindBy(xpath = "//div[contains(text(),'Shashank')]")
+    @FindBy(xpath = "//div[contains(text(),'Piyush')]")
     WebElement verifyafterlogin;
     @FindBy(xpath = "//div[@class='css-1dbjc4n r-1wyyakw']/following-sibling::div")
     WebElement toastlogin;
@@ -43,7 +43,6 @@ public class Login extends Reuse.Resusable{
         logger.info("Logged in");
         visibble(toastlogin);
         invisible(toastlogin);
-
     }
 
 }
